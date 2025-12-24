@@ -27,11 +27,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Básico-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Básico-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JHectorsb&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JHectorsb&layout=compact&theme=tokyonight)
 
 ## 📬 Contacto
 📧 **Correo:** jhsb1235@gmail.com  
